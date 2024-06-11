@@ -1,5 +1,5 @@
 #include <stdio.h>
-void display(); // function prototype
+void display(int n); // function prototype
 int main()
 {
     int a;
